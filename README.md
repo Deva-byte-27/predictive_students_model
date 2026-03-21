@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-Project-green)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)git
+
+
 🎓 Predictive Students Model
 
 📌 Overview
